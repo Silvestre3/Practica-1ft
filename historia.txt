@@ -2,4 +2,4 @@ Este es el inicio del aprendizaje de GIT
 
 Luego seguiremos con GITHUB
 
-Al mismo tiempo que seguimos con Opeensees
+Al mismo tiempo que seguimos con el curso de Opeensees
